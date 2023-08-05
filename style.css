@@ -1032,7 +1032,7 @@ padding: 10px;
           margin-top:120px;
       }
 .contacts{
-  font-size: 20px;
+  font-size: 18px;
   color: #061c3e;
   margin-top: 20px;
   width: 280px;
@@ -1041,5 +1041,8 @@ padding: 10px;
   margin-bottom: 30px;
   margin-top: 10px;
 }
-
+.wrapper .icon{
+  margin:  0 12px;
+  
+}
   }
