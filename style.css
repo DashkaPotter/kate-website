@@ -975,8 +975,9 @@ margin-left: 0px;
 line-height: 21px;
 margin-top: -20px;
 }
-      .intro{
-          letter-spacing:-1.6px;
+.intro{
+font-size: 14.5px;     
+letter-spacing:-2px;
       }
 .par-title{
 font-size: 14px;
