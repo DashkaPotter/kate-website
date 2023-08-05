@@ -304,6 +304,14 @@ a,button{
 .about-par h3{
   padding: 10px;
 }
+.intro{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ul{
+    list-style:none;
+}
 
 .about-title{
     display: flex;
