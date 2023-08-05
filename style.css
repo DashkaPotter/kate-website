@@ -967,9 +967,11 @@ margin-bottom: 80px;
 min-height: 100vh;
 }
 .about-par{
+flex-direction:column;
+display:flex;
 width: 250px;
 font-size: 15px;
-letter-spacing: -1px;
+letter-spacing: 0px;
 text-align: justify;
 margin-left: 0px;
 line-height: 21px;
