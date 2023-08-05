@@ -968,8 +968,8 @@ min-height: 100vh;
 }
 .about-par{
 width: 250px;
-font-size: 14px;
-letter-spacing: 0px;
+font-size: 12px;
+letter-spacing: -1.6px;
 text-align: justify;
 margin-left: 0px;
 line-height: 21px;
