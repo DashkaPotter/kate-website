@@ -632,7 +632,7 @@ a,button{
   display: inline-flex;
 }
 .wrapper .icon{
-  margin:  0 20px;
+  margin:  0 15px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -698,6 +698,7 @@ a,button{
 
 
 @media all and (max-width:1100px){
+    
   .navigation{
     display: block;
 }
@@ -895,7 +896,7 @@ width: 100%;
   }
   .hamburger{
       display: block;
-      top: 5.5%;
+      top: 5%;
       left: 82%;
       width: 30px;
       height: 40px;
@@ -912,7 +913,7 @@ width: 100%;
   }
   .logo{
       margin-left: 10px;
-      font-size: 13px;
+      font-size: 11px;
   }
   .icons-div{
       display: none;
