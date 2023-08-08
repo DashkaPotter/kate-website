@@ -294,7 +294,7 @@ a,button{
 .about-par{
     width: 610px;
     padding-left: 10px;
-    font-size: 20px;
+    font-size: 1.3rem;
     font-weight: 600;
     text-align: justify;
     border-left: #4775ff 4px solid;
